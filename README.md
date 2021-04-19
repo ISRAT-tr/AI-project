@@ -80,3 +80,10 @@ design can support a wide variety of answers.
 number=315646&queryText%3DAnswer+Checker
 [2] http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&ar
 number=139342&queryText%3DAnswer+Checker
+# G. PROJECT PRESENTATION
+The project report entitled has come to its final stage. The system has been developed
+with much care that it is free of errors and at the same time it
+is efficient and less time consuming.
+The important thing is that the system is robust. Also provision is provided for future developments in the system. The
+entire system is secured. This online system will be approved
+and implemented soon
